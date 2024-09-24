@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://bgmsora.github.io/blogPersonal/sitemap.xml

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Olga Kolesnikova",
+    "description": "",
+    "home_page_url": "https://bgmsora.github.io/blogPersonal",
+    "feed_url": "https://bgmsora.github.io/blogPersonal/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Olga Kolesnikova"
+    },
+    "items": [
+        {
+            "id": "https://bgmsora.github.io/blogPersonal/olga-kolesnikova.html",
+            "url": "https://bgmsora.github.io/blogPersonal/olga-kolesnikova.html",
+            "title": "Olga Kolesnikova",
+            "summary": "Laboratorio de Procesamiento de Lenguaje Natural",
+            "content_html": "<p><strong>Laboratorio de Procesamiento de Lenguaje Natural</strong></p>\n<p> </p>",
+            "author": {
+                "name": "Olga Kolesnikova"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-23T23:24:53-06:00",
+            "date_modified": "2024-09-23T23:25:12-06:00"
+        }
+    ]
+}
