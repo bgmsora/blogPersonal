@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://bgmsora.github.io/blogPersonal/tesis-number-one/",
-            "url": "https://bgmsora.github.io/blogPersonal/tesis-number-one/",
-            "title": "Tesis number one",
-            "summary": "sdthis tesis talks about asdfasdfasdfa sdf asd f asdf fda sf adsa fds adfs afds fds afds afd afds adfs adfs adfs afd sfd s fds afds afds afsd afs fds afds afds afds&nbsp; &nbsp;afds &nbsp;adfs sa fd dfs dfs a&nbsp;adfsdasf asd asdf sdfa af&hellip;",
-            "content_html": "\n  <p>\n    sdthis tesis talks about asdfasdfasdfa sdf asd f asdf fda sf adsa fds adfs afds fds afds afd afds adfs adfs adfs afd sfd s fds afds afds afsd afs fds afds afds afds&nbsp;\n  </p>\n\n  <p>\n    &nbsp;afds\n  </p>\n\n  <p>\n    &nbsp;adfs\n  </p>\n\n  <p>\n    sa fd\n  </p>\n\n  <p>\n    dfs dfs a&nbsp;adfsdasf\n  </p>\n\n  <p>\n    asd\n  </p>\n\n  <p>\n    asdf\n  </p>\n\n  <p>\n    sdfa\n  </p>\n\n  <p>\n    af\n  </p>\n\n  <p>\n    sd\n  </p>\n\n  <p>\n    asdf\n  </p>\n\n  <p>\n    \n  </p>",
+            "id": "https://bgmsora.github.io/blogPersonal/semantic-analysis-of-verbal-collocations-with-lexical-functions/",
+            "url": "https://bgmsora.github.io/blogPersonal/semantic-analysis-of-verbal-collocations-with-lexical-functions/",
+            "title": "Semantic analysis of verbal collocations with lexical functions",
+            "summary": "Authors Atnafu Lambebo Tonja, Olga Kolesnikova, Alexander Gelbukh, Grigori Sidorov Publication date 2023/1/16 Journal Applied Sciences Volume 13 Issue 2 Pages 1201 Publisher MDPI Description Despite the many proposals to solve the neural machine translation (NMT) problem of low-resource languages, it continues to be difficult.",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"0\">\n<tbody>\n<tr>\n<td class=\"align-right\" style=\"width: 24.538%;\">Authors</td>\n<td style=\"width: 75.462%;\">Atnafu Lambebo Tonja, Olga Kolesnikova, Alexander Gelbukh, Grigori Sidorov</td>\n</tr>\n<tr>\n<td class=\"align-right\" style=\"width: 24.538%;\">\n<div class=\"gsc_oci_field\">Publication date</div>\n</td>\n<td style=\"width: 75.462%;\">2023/1/16</td>\n</tr>\n<tr>\n<td class=\"align-right\" style=\"width: 24.538%;\">\n<div class=\"gsc_oci_field\">Journal</div>\n</td>\n<td style=\"width: 75.462%;\">Applied Sciences</td>\n</tr>\n<tr>\n<td class=\"align-right\" style=\"width: 24.538%;\">\n<div class=\"gsc_oci_field\">Volume</div>\n</td>\n<td style=\"width: 75.462%;\">13</td>\n</tr>\n<tr>\n<td class=\"align-right\" style=\"width: 24.538%;\">\n<div class=\"gsc_oci_field\">Issue</div>\n</td>\n<td style=\"width: 75.462%;\">2</td>\n</tr>\n<tr>\n<td class=\"align-right\" style=\"width: 24.538%;\">\n<div class=\"gsc_oci_field\">Pages</div>\n</td>\n<td style=\"width: 75.462%;\">1201</td>\n</tr>\n<tr>\n<td class=\"align-right\" style=\"width: 24.538%;\">\n<div class=\"gsc_oci_field\">Publisher</div>\n</td>\n<td style=\"width: 75.462%;\">MDPI</td>\n</tr>\n<tr>\n<td class=\"align-right\" style=\"width: 24.538%;\">\n<div class=\"gsc_oci_field\">Description</div>\n</td>\n<td style=\"width: 75.462%;\">Despite the many proposals to solve the neural machine translation (NMT) problem of low-resource languages, it continues to be difficult. The issue becomes even more complicated when few resources cover only a single domain. In this paper, we discuss the applicability of a source-side monolingual dataset of low-resource languages to improve the NMT system for such languages. In our experiments, we used Wolaytta–English translation as a low-resource language. We discuss the use of self-learning and fine-tuning approaches to improve the NMT system for Wolaytta–English translation using both authentic and synthetic datasets. The self-learning approach showed +2.7 and +2.4 BLEU score improvements for Wolaytta–English and English–Wolaytta translations, respectively, over the best-performing baseline model. Further fine-tuning the best-performing self-learning model showed +1.2 and +0.6 BLEU score improvements for Wolaytta–English and English–Wolaytta translations, respectively. We reflect on our contributions and plan for the future of this difficult field of study.</td>\n</tr>\n</tbody>\n</table>\n<p class=\"align-right\"><a href=\"https://www.mdpi.com/2076-3417/13/2/1201\">Link</a></p>",
             "author": {
                 "name": "Olga Kolesnikova"
             },
             "tags": [
             ],
-            "date_published": "2024-09-24T23:03:30-06:00",
-            "date_modified": "2024-09-24T23:03:30-06:00"
+            "date_published": "2024-09-29T21:13:22-06:00",
+            "date_modified": "2024-09-29T21:13:22-06:00"
         }
     ]
 }

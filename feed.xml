@@ -3,76 +3,79 @@
     <title>Olga Kolesnikova</title>
     <link href="https://bgmsora.github.io/blogPersonal/feed.xml" rel="self" />
     <link href="https://bgmsora.github.io/blogPersonal" />
-    <updated>2024-09-24T23:03:30-06:00</updated>
+    <updated>2024-09-29T21:13:22-06:00</updated>
     <author>
         <name>Olga Kolesnikova</name>
     </author>
     <id>https://bgmsora.github.io/blogPersonal</id>
 
     <entry>
-        <title>Tesis number one</title>
+        <title>Semantic analysis of verbal collocations with lexical functions</title>
         <author>
             <name>Olga Kolesnikova</name>
         </author>
-        <link href="https://bgmsora.github.io/blogPersonal/tesis-number-one/"/>
-        <id>https://bgmsora.github.io/blogPersonal/tesis-number-one/</id>
+        <link href="https://bgmsora.github.io/blogPersonal/semantic-analysis-of-verbal-collocations-with-lexical-functions/"/>
+        <id>https://bgmsora.github.io/blogPersonal/semantic-analysis-of-verbal-collocations-with-lexical-functions/</id>
 
-        <updated>2024-09-24T23:03:30-06:00</updated>
+        <updated>2024-09-29T21:13:22-06:00</updated>
             <summary>
                 <![CDATA[
-                    sdthis tesis talks about asdfasdfasdfa sdf asd f asdf fda sf adsa fds adfs afds fds afds afd afds adfs adfs adfs afd sfd s fds afds afds afsd afs fds afds afds afds&nbsp; &nbsp;afds &nbsp;adfs sa fd dfs dfs a&nbsp;adfsdasf asd asdf sdfa af&hellip;
+                    Authors Atnafu Lambebo Tonja, Olga Kolesnikova, Alexander Gelbukh, Grigori Sidorov Publication date 2023/1/16 Journal Applied Sciences Volume 13 Issue 2 Pages 1201 Publisher MDPI Description Despite the many proposals to solve the neural machine translation (NMT) problem of low-resource languages, it continues to be difficult.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    sdthis tesis talks about asdfasdfasdfa sdf asd f asdf fda sf adsa fds adfs afds fds afds afd afds adfs adfs adfs afd sfd s fds afds afds afsd afs fds afds afds afds&nbsp;
-  </p>
-
-  <p>
-    &nbsp;afds
-  </p>
-
-  <p>
-    &nbsp;adfs
-  </p>
-
-  <p>
-    sa fd
-  </p>
-
-  <p>
-    dfs dfs a&nbsp;adfsdasf
-  </p>
-
-  <p>
-    asd
-  </p>
-
-  <p>
-    asdf
-  </p>
-
-  <p>
-    sdfa
-  </p>
-
-  <p>
-    af
-  </p>
-
-  <p>
-    sd
-  </p>
-
-  <p>
-    asdf
-  </p>
-
-  <p>
-    
-  </p>
+                <table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td class="align-right" style="width: 24.538%;">Authors</td>
+<td style="width: 75.462%;">Atnafu Lambebo Tonja, Olga Kolesnikova, Alexander Gelbukh, Grigori Sidorov</td>
+</tr>
+<tr>
+<td class="align-right" style="width: 24.538%;">
+<div class="gsc_oci_field">Publication date</div>
+</td>
+<td style="width: 75.462%;">2023/1/16</td>
+</tr>
+<tr>
+<td class="align-right" style="width: 24.538%;">
+<div class="gsc_oci_field">Journal</div>
+</td>
+<td style="width: 75.462%;">Applied Sciences</td>
+</tr>
+<tr>
+<td class="align-right" style="width: 24.538%;">
+<div class="gsc_oci_field">Volume</div>
+</td>
+<td style="width: 75.462%;">13</td>
+</tr>
+<tr>
+<td class="align-right" style="width: 24.538%;">
+<div class="gsc_oci_field">Issue</div>
+</td>
+<td style="width: 75.462%;">2</td>
+</tr>
+<tr>
+<td class="align-right" style="width: 24.538%;">
+<div class="gsc_oci_field">Pages</div>
+</td>
+<td style="width: 75.462%;">1201</td>
+</tr>
+<tr>
+<td class="align-right" style="width: 24.538%;">
+<div class="gsc_oci_field">Publisher</div>
+</td>
+<td style="width: 75.462%;">MDPI</td>
+</tr>
+<tr>
+<td class="align-right" style="width: 24.538%;">
+<div class="gsc_oci_field">Description</div>
+</td>
+<td style="width: 75.462%;">Despite the many proposals to solve the neural machine translation (NMT) problem of low-resource languages, it continues to be difficult. The issue becomes even more complicated when few resources cover only a single domain. In this paper, we discuss the applicability of a source-side monolingual dataset of low-resource languages to improve the NMT system for such languages. In our experiments, we used Wolaytta–English translation as a low-resource language. We discuss the use of self-learning and fine-tuning approaches to improve the NMT system for Wolaytta–English translation using both authentic and synthetic datasets. The self-learning approach showed +2.7 and +2.4 BLEU score improvements for Wolaytta–English and English–Wolaytta translations, respectively, over the best-performing baseline model. Further fine-tuning the best-performing self-learning model showed +1.2 and +0.6 BLEU score improvements for Wolaytta–English and English–Wolaytta translations, respectively. We reflect on our contributions and plan for the future of this difficult field of study.</td>
+</tr>
+</tbody>
+</table>
+<p class="align-right"><a href="https://www.mdpi.com/2076-3417/13/2/1201">Link</a></p>
             ]]>
         </content>
     </entry>
